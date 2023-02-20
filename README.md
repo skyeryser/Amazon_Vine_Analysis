@@ -11,12 +11,14 @@ All of the totals for paid and unpaid reviews below are calculated from a pool o
 - The total number of 5-star reviews from Vine reviewers was 518
 - The percentage of paid 5-star reviews to paid reviews is 55.6%
 
+![paid_percent.png](https://github.com/skyeryser/Amazon_Vine_Analysis/blob/main/Photos/paid_percent.png)
 
 ### Unpaid Reviews
 - The total number of unpaid luggage reviews was 387,919
 - The total number of 5-star reviews from unpaid reviewers was 210,647
 - The percentage of unpaid 5-star reviews to unpaid reviews is 54.3%
 
+![unpaid_percent.png](https://github.com/skyeryser/Amazon_Vine_Analysis/blob/main/Photos/unpaid_percent.png)
 
 ## Summary
 Based on the results presented above, the percentage of 5-star reviews between the paid and unpaid reviewers on Amazon is similar. It doesn't appear that paid reviewers are much more likely to review a product highly just because they have been incentivized to write the review. Likewise, it can be argued that unpaid reviewers write more high-quality reviews than their paid counterparts. If luggage products have so many unpaid reviewers, what is the point in paying for more reviews?
